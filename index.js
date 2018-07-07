@@ -1,4 +1,4 @@
-module.exports = {
+const seasons = {
     spring: [
         'apples',
         'apricots',
@@ -101,4 +101,8 @@ module.exports = {
         'turnips',
         'winter squash'
     ]
+};
+
+module.exports = {
+    seasons
 };
